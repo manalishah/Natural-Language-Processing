@@ -1,0 +1,12 @@
+Fscore of: SPAM
+actual = 8324
+correctly_classified = 8264
+total_classified = 9399
+Fscore = 0.9325734920724482
+
+Fscore of: HAM
+actual = 8329
+correctly_classified = 7194
+total_classified = 7254
+Fscore = 0.923313867676314
+

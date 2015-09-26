@@ -1,0 +1,12 @@
+Fscore of: NEGATIVE
+actual = 9378
+correctly_classified = 8321
+total_classified = 10191
+Fscore = 0.8504266952833565
+
+Fscore of: POSITIVE
+actual = 9372
+correctly_classified = 7502
+total_classified = 8559
+Fscore = 0.8367631476214378
+
